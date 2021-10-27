@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm a freshman CS student at Bilkent University 
- I'm interested in Computer vision and artificial intelligence 
+ I'm interested in computer vision and machine learning 
 
 <!--
 **Cevatercal01/Cevatercal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
