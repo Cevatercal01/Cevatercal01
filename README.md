@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a sophomore CS student at Bilkent University 
+### Hi there 👋 I'm a junior CS student at Bilkent University 
  I'm interested in computer vision and machine learning 
 
 <!--
